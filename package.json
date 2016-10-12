@@ -1,0 +1,8 @@
+{
+  "name": "random-data-generator",
+  "version": "1.0.0",
+  "description": "Generates random data.",
+  "dependencies": {
+    "casual": "^1.5.6"
+  }
+}
